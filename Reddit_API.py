@@ -1,6 +1,6 @@
 import requests
 import pandas as pd 
-import re
+
 
 client_id = '5udLMTOTkdhqWCJT8xWLzQ'
 
